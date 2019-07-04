@@ -5,10 +5,10 @@ Some references for Functional Programming core concepts that can be useful (I g
 ## Core concepts
 
 ### Pure functions:
-	* :newspaper: [Title 1](link)
+ * :newspaper: [Title 1](link)
 
 ### Higher-Order functions:
-	* :newspaper: [Title 1](link)
+ * :newspaper: [Title 1](link)
 
 
 
