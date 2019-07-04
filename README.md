@@ -2,7 +2,7 @@
 
 Some references for Functional Programming core concepts that can be useful (I guess :v).
 
-## Core concepts
+## Core concepts :bookmark_tabs:
 
 ### Pure functions:
  * :newspaper: [Title 1](link)
@@ -10,6 +10,7 @@ Some references for Functional Programming core concepts that can be useful (I g
 ### Higher-Order functions:
  * :newspaper: [Title 1](link)
 
+## Exercises! :muscle:
 
 
 
