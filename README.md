@@ -22,7 +22,7 @@ Some references for Functional Programming core concepts that can be useful (I g
  
 ### Recursion:
  * :newspaper: [Recursive practice problems with solutions](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/)
- * :newspaper: [https://www.thecodingdelight.com/understanding-recursion-javascript/](Understanding Recursion in JavaScript with Confidence)
+ * :newspaper: [Understanding Recursion in JavaScript with Confidence](https://www.thecodingdelight.com/understanding-recursion-javascript/)
 
 ### Compose:
  * :newspaper: []()
