@@ -25,8 +25,8 @@ Some references for Functional Programming core concepts that can be useful (I g
  * :newspaper: [Understanding Recursion in JavaScript with Confidence](https://www.thecodingdelight.com/understanding-recursion-javascript/)
 
 ### Compose:
- * :newspaper: []()
- * :newspaper: []()
+ * :newspaper: [Functional Composition in Javascript](https://joecortopassi.com/articles/functional-composition-in-javascript/)
+ * :newspaper: [Functional Composition: compose() and pipe()](https://medium.com/@acparas/what-i-learned-today-july-2-2017-ab9a46dbf85f)
 
 ### Currying:
  * :newspaper: [Currying in JavaScript](https://codeburst.io/currying-in-javascript-ba51eb9778dc)
