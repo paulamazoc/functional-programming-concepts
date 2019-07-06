@@ -14,6 +14,14 @@ Some references for Functional Programming core concepts that can be useful (I g
  * :newspaper: [What is a functor?](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6)
  * :newspaper: [Functors, Applicatives, and Monads in pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
  
+### Destructuring:
+### Recursion:
+### Compose:
+
+### Currying:
+ * :newspaper: [Currying in JavaScript](https://codeburst.io/currying-in-javascript-ba51eb9778dc)
+ * :newspaper: [JavaScript ES6 curry functions with practical examples](https://medium.com/front-end-weekly/javascript-es6-curry-functions-with-practical-examples-6ba2ced003b1)
+ 
 ## Exercises! :muscle:
 
 
