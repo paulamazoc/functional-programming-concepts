@@ -9,8 +9,8 @@ Some references for Functional Programming core concepts that can be useful (I g
  * :newspaper: [Pure Functions In Javascript](https://appdividend.com/2017/04/10/pure-functions-in-javascript/)
 
 ### Higher-Order functions:
- * :newspaper: [Title 1](link)
- * :newspaper: [Title 1](link)
+ * :newspaper: [Understanding Higher-Order Functions in JavaScript](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
+ * :newspaper: [Higher Order Functions: Using Filter, Map and Reduce for More Maintainable Code](https://www.freecodecamp.org/news/higher-order-functions-in-javascript-d9101f9cf528/)
 
 ### Functor:
  * :newspaper: [What is a functor?](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6)
