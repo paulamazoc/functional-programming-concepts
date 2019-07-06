@@ -32,10 +32,13 @@ Some references for Functional Programming core concepts that can be useful (I g
  * :newspaper: [Currying in JavaScript](https://codeburst.io/currying-in-javascript-ba51eb9778dc)
  * :newspaper: [JavaScript ES6 curry functions with practical examples](https://medium.com/front-end-weekly/javascript-es6-curry-functions-with-practical-examples-6ba2ced003b1)
  
-## Exercises! :muscle:
+## Other material :star:
 
+References I like because they give a useful approach to how to handle with Functional Programming as a developer... Enjoy it!
 
-
-
-
-
+ * :newspaper: [An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+ * :newspaper: [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+ * :newspaper: [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
+ * :newspaper: [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
+ * :newspaper: [So You Want to be a Functional Programmer (Part 4)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
+ * :newspaper: [So You Want to be a Functional Programmer (Part 5)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
