@@ -5,9 +5,11 @@ Some references for Functional Programming core concepts that can be useful (I g
 ## Core concepts :bookmark_tabs:
 
 ### Pure functions:
- * :newspaper: [Title 1](link)
+ * :newspaper: [Making your JavaScript Pure](https://alistapart.com/article/making-your-javascript-pure/)
+ * :newspaper: [Pure Functions In Javascript](https://appdividend.com/2017/04/10/pure-functions-in-javascript/)
 
 ### Higher-Order functions:
+ * :newspaper: [Title 1](link)
  * :newspaper: [Title 1](link)
 
 ### Functor:
