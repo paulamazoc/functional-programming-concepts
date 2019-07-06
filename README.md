@@ -21,8 +21,8 @@ Some references for Functional Programming core concepts that can be useful (I g
  * :newspaper: [Exploring ES6 - 10. Destructuring](https://exploringjs.com/es6/ch_destructuring.html)
  
 ### Recursion:
- * :newspaper: []()
- * :newspaper: []()
+ * :newspaper: [Recursive practice problems with solutions](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/)
+ * :newspaper: [https://www.thecodingdelight.com/understanding-recursion-javascript/](Understanding Recursion in JavaScript with Confidence)
 
 ### Compose:
  * :newspaper: []()
